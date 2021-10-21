@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![takumi-lax's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi-lax&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumi-lax&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/takumi-lax/github-readme-stats)
 
