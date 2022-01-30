@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takumi-lax&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumi-lax&theme=nord_dark)
+
+![](https://komarev.com/ghpvc/?username=takumi-lax&color=blue)
